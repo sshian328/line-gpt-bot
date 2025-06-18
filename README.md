@@ -93,5 +93,5 @@ The assistant acts as a professional executive support agent. You can customize 
 
 ## 🧑‍💼 Author
 
-Created by [Your Name]  
+Created by Steven Wu [LinkedIn Profile](https://www.linkedin.com/in/chunshian/)
 Feel free to fork or customize for internal business use.
